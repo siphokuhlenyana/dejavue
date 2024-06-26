@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
-            "contactDetails":""
+            "id":"1",
+            "firstName":"Asanda",
+            "lastName":"Mehlo",
+            "gender":"Female",
+            "profile":"@Ma-Asi",
+            "contactDetails":"255685"
+        },
+        {
+            "id":"2",
+            "firstName":"Olwethu",
+            "lastName":"Malumla",
+            "gender":"Female",
+            "profile":"@O2",
+            "contactDetails":"625555"
+        },
+        {
+            "id":"3",
+            "firstName":"Ntando",
+            "lastName":"Mabuto",
+            "gender":"Male",
+            "profile":"@Ntando_siw",
+            "contactDetails":"625566"
+        },
+        {
+            "id":"4",
+            "firstName":"Candice",
+            "lastName":"Keet",
+            "gender":"Female",
+            "profile":"@Candy",
+            "contactDetails":"425587"
+        },
+        {
+            "id":"5",
+            "firstName":"Sihlandlo",
+            "lastName":"Makhumsha",
+            "gender":"Male",
+            "profile":"@Sihla",
+            "contactDetails":"3214255"
         }
     ]
 }
