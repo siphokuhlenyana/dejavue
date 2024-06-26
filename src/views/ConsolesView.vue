@@ -3,10 +3,10 @@
         <div id="card">
             
         
-        <div id="games" v-for="gaming_console in gamesData " :key="gaming_console" :style="{backgroundImage:`url(https://helios-i.mashable.com/imagery/articles/010KWGjGBjJD9ve8L0dXXsG/hero-image.fill.size_1200x1200.v1702327532.jpg)`,backgroundSize:'cover'}">
+        <div id="games" v-for="gaming_console in gamesData " :key="gaming_console.name" :style="{backgroundImage:`url(https://helios-i.mashable.com/imagery/articles/010KWGjGBjJD9ve8L0dXXsG/hero-image.fill.size_1200x1200.v1702327532.jpg)`,backgroundSize:'cover'}">
         <card-comp :games="gaming_console">
         <template #game>
-            <h1>{{gaming_console}}</h1>
+            <h1>{{gaming_console.name}}</h1>
             
         </template>
          </card-comp>

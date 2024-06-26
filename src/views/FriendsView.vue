@@ -7,6 +7,7 @@
         <h3>{{friend.gender}}</h3>
         <h2>{{friend.profile}}</h2>
         <h2>{{friend.contactDetails}}</h2>
+        <!-- <p>{{$store.state.friends}}</p> -->
 
         </div>
     </div>

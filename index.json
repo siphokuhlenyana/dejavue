@@ -93,6 +93,30 @@
             "gender":"Male",
             "profile":"@Sihla",
             "contactDetails":"3214255"
+        },
+        {
+            "id":"6",
+            "firstName":"Mellissa",
+            "lastName":"Nkwentsha",
+            "gender":"Female",
+            "profile":"@Mimo",
+            "contactDetails":"123456" 
+        },
+        {
+            "id":"7",
+            "firstName":"Yonela",
+            "lastName":"Mangele",
+            "gender":"Male",
+            "profile":"@Tar May-tar",
+            "contactDetails":"624555"
+        },
+        {
+            "id":"8",
+            "firstName":"Zino",
+            "lastName":"Lou",
+            "gender":"Female, Male",
+            "profile":"@Sihla",
+            "contactDetails":"3214255"
         }
     ]
 }
